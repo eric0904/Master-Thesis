@@ -1,0 +1,1 @@
+# Improving the Speed and Accuracy of the MaskedPanGenie Method of Genotyping
